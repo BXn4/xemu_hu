@@ -1,3 +1,4 @@
 # xemu_hu
 xemu (Original Xbox emulator) magyar nyelvű dokumentációja
-"afaik our first translation! nice"
+<br>"afaik our first translation! nice"
+<br> https://xemu.app/
